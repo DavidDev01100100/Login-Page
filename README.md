@@ -13,3 +13,6 @@ Código referente as video aulas ministradas no Canal do YouTube - Guilherme Chi
 Abraço à todos,
 
 Guilherme Chinaglia
+
+![image](https://user-images.githubusercontent.com/82853944/175386183-ebcf8036-e7af-490e-ad7c-a057ff049a2b.png)
+
